@@ -55,6 +55,7 @@ This file is mainly a compilation of questions/answers to AI (<https://www.perpl
 
 - [RPI Pico](https://mauser.pt/catalog/product_info.php?cPath=1667_2620_1672&products_id=096-9421): ≃ 4.5€
 - [RF kit](https://temperosystems.com.au/products/433mhz-rf-wireless-transmitter-and-receiver-module-kit/): ≃ 5.5€
+  - TODO: look into this [915mz](https://pt.aliexpress.com/item/1005008151575043.html?gatewayAdapt=glo2bra)
 - [4x IP65 Box](https://www.amazon.es/dp/B0D2TR8ZMK?sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY): ≃ 11€
 
 |Aspect| A: Direct 220V AC Valve + 220V AC Relay |B: Transformer + 24V AC Valve + Low Voltage Relay|
